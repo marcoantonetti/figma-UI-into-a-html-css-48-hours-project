@@ -1,0 +1,45 @@
+.big2-font {
+    font-size: 2.5rem;
+}
+
+.big1-font{
+    font-size: 1.8rem;
+}
+
+.med-font{
+    font-size: 1.2rem;
+}
+
+.med-font2{
+    font-size: 1rem;
+}
+
+.sm-font{
+    font-size: 14px
+}
+
+.sm-font2{
+    font-size: 0.8rem;
+}
+
+.sm-font3{
+    font-size: 0.7rem;
+}
+
+.sm-font4{
+    font-size: 0.63rem;
+}
+
+/* border - radius */
+
+.bd-radius{
+    border-radius: 1rem;
+}
+
+.bd-radius1{
+    border-radius: 0.5rem;
+}
+
+.bd-radius2{
+    border-radius: 3rem;
+}

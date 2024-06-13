@@ -1,0 +1,51 @@
+/* colors */
+.black{
+    color: black;
+}
+
+.white{
+    color: #FFFFFF;
+}
+
+.blue{
+    color: #2C7EF8
+}
+
+.aqua{
+    color: rgb(91, 181, 154);
+}
+
+.red{
+    color: #F82C2C;
+}
+
+
+.lightgray{
+    color: #969696 ;
+}
+
+.darkgray2{
+    color: #333333;
+}
+
+/* background-colors */
+.bg-green{
+    background-color: #59AE43;
+}
+
+.bg-aqua{
+    background-color: #5BB59A;;
+}
+
+
+.lightaqua{
+    background-color: rgb(237, 243, 253)
+}
+
+.darkgray{
+    background-color: #252F3D;
+}
+
+.bg-white{
+    background-color: white;
+}

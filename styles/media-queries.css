@@ -1,0 +1,194 @@
+@media (max-width: 365px) {
+    .padding-container{
+        padding: 0rem;
+    }
+
+    .header p:not(:first-child){
+        display: none;
+    }
+
+    .header{
+        padding: 0rem;
+    }
+
+    .display-none{
+        display: block;
+    }
+
+    .arrow{
+        margin: 0rem 1rem;
+    }
+
+    .logos{
+        padding: 1rem;
+    }
+
+    .right-logos{
+        max-width: 130px;
+        max-height: 130px;
+    }
+
+    .left{
+        width: 100vw;
+    }
+
+    .left-logo{
+        max-width: 120px;
+        max-height: 120px;
+    }
+
+    
+    .steps{
+        padding: 0rem;
+        transform: scale(0.88);
+
+        margin: 0rem 0rem 0rem 1.5rem;
+    }
+    
+    .steps span{
+        display: none;
+    }
+
+    .steps li {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        margin-right: 1rem; 
+        font-size: 0.8rem;  
+    }
+
+    .main-container{
+        margin: 0rem;
+        padding: 0rem 1rem;
+        flex-direction: column;
+        width: 100vw;
+        overflow: hidden;
+    }
+
+    .customer-review{
+        display: none;
+    }
+
+    .order-status {
+        text-align: center;
+        transform: scale(0.9);
+        margin-left: -0.7rem;
+        width: 100vw;
+    }
+
+    .order-status span {
+        display: none;
+    }
+
+    .subtitle{
+        left: 0;
+    }
+
+    .product{
+        width: 90vw;
+    }
+
+    .right{
+        padding: 0rem;
+        width: 100vw;
+    }
+
+    .p-offer{
+        text-align: center;
+        font-size: 24px;
+        padding: 0rem 3rem 0rem 0rem;
+    }
+
+    .description{
+        width: 100vw;
+        margin: 0rem 0rem 1rem -2.3rem;
+        gap: 0rem;
+        transform: scale(0.9);
+    }
+
+    .title{
+        font-size: 1.2rem;
+    }
+
+    .title-price{
+        justify-content: start;
+        gap: 1rem;
+    }
+
+    .product-qualities{
+        font-size: 0.8rem;
+        margin: 1rem 0rem;
+    }
+
+    .title-price p:last-child{
+        font-size: 0.8rem;
+    }
+        
+    .stars-stock-description p:last-child{
+        display: none;
+    }
+    
+    
+    .simply-plug{
+        text-align: center;
+        margin: 1rem 2.9rem 0rem 0rem;
+        transform: scale(1.15);
+    }
+
+    .discount-option{
+        margin: -1rem 1.8rem 0rem 0rem;
+    }
+
+    .round-btn{
+        width: 90vw;
+        padding: 1rem 2rem;
+        margin: 0rem 0rem 0rem -2rem;
+    }
+
+    .aditional-info{
+        width: 90vw;
+        margin: 0rem 0rem 0rem 0rem;
+        padding-left: 2rem;
+    }
+
+    #custom-bar{
+        display: none;
+    }
+
+    .payments{
+        padding: 0.5rem 0rem 0.1rem 0rem;
+        margin-left: 2.5rem;
+        border-top: 1px solid #CFCFCF ;
+        transform: scale(1);
+    }
+
+    .nothanks{
+        margin: 0rem 0rem 0rem -2.7rem;
+    }
+
+    .guarantee{
+        margin: 0rem 0rem 1rem -0.9rem;
+        width: 100vw;
+    }
+
+    .guarantee img{
+        max-height: 60px;
+        max-width: 60px;
+    }
+
+    .img-small{
+        max-height: 100px;
+        max-width: 100px;
+        margin: 0rem;
+    }
+
+
+    .footer{
+        flex-direction: column;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+}
